@@ -15,6 +15,11 @@
         	"url": "stratum+tcp://na.luckpool.net:3957",
 		"timeout": 150
 	}
+	{
+		"name": "LuckPoolFailover3",
+        	"url": "stratum+tcp://ap.luckpool.net:3956",
+		"timeout": 150
+	}
 	],
 	"user": "RM17BFGDPHEp2Y63KX6onqsxxfAtMTRdwK.ROG3",
 	"pass": "c=PGN",
